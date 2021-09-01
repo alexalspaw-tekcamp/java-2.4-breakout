@@ -8,6 +8,8 @@ public class PodcastingApp {
        Methods :
        - loadPlaylist (replace the existing playlist with a new one)
        - addPodcast (add a new podcast to the playlist. order of the playlist should be maintained.)
+
+       Below methods are suggestions if you make it this far
        - play()
        - stop()
        - next()

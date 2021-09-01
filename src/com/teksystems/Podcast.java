@@ -3,8 +3,8 @@ package com.teksystems;
 public class Podcast {
     /*
 		Properties
-		   - Title
-		   - Host
-		   - Duration
+		   - title
+		   - host
+		   - duration
 	*/
 }
