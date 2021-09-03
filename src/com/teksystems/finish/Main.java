@@ -1,7 +1,12 @@
-package com.teksystems;
+package com.teksystems.finish;
 
 public class Main {
     public static void main(String[] args) {
+        AudioFile song = new Song("Cigarette Daydreams", "3:13", "Cage the Elephant");
+
+        PodcastingApp<Podcast> podcastingApp = new PodcastingApp<>("Apple Podcasts");
+//        podcastingApp.addToApp(song);
+
 		/*	Do the following tasks here in the main method.
 			Create 5 podcasts.
 			Create 1 Podcasting Apps.
